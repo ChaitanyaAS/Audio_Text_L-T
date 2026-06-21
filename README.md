@@ -1,8 +1,4 @@
-Here is a clean, comprehensive, and well-structured `README.md` template tailored to the architecture of your **Audio_Text_L-T** repository. It covers both the Python backend (with its online/offline Whisper modes) and the browser extension frontend.
 
----
-
-```markdown
 # Audio_Text_L-T
 
 An intelligent Audio-to-Text transcription and translation system featuring a browser extension frontend and a powerful Python backend. The project utilizes OpenAI's Whisper model to deliver seamless speech-to-text capabilities in both **online** and **offline** environments.
