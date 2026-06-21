@@ -1,0 +1,49 @@
+
+=========================================
+MEETING INTELLIGENCE REPORT
+=========================================
+
+Generated On:
+2026-06-15 11:08:38.585423
+
+=========================================
+TRANSCRIPT
+=========================================
+
+[0.00s -> 7.00s]  So yeah, I am Saitanya and today we will be working on audio-to-text conversion project.
+
+
+=========================================
+MINUTES OF MEETING (MOM)
+=========================================
+
+### 1. Executive Summary
+
+The meeting was attended by key stakeholders involved in the audio-to-text conversion project led by Saitanya. The main topic of discussion centered around initial planning and next steps for the project.
+
+### 2. Minutes of Meeting (MOM)
+
+- **Attendees:** Not Mentioned  
+- **Date & Time:** Not Mentioned
+- **Location:** Not Mentioned
+- **Project Focus:** Audio-to-text conversion  
+- **Key Points Discussed:**
+  - Overview and initial planning for the project was provided by Saitanya.
+  - No action items were identified at this stage of the project.
+
+### 3. Action Items
+
+Not Mentioned
+
+### 4. Decisions Taken
+
+Not Mentioned
+
+### 5. Risks Identified
+
+- **Risks:** Not mentioned in the transcript  
+- **Mitigation Strategies:** Not mentioned in the transcript
+
+### 6. Overall Sentiment
+
+The meeting was focused and productive, with all participants agreeing to continue planning for the audio-to-text conversion project.

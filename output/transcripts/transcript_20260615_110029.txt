@@ -1,0 +1,1 @@
+[0.00s -> 7.00s]  So yeah, I am Saitanya and today we will be working on audio-to-text conversion project.

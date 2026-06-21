@@ -1,0 +1,21 @@
+body {
+    width: 320px;
+    padding: 15px;
+    font-family: Arial;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#status {
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+#output {
+    white-space: pre-wrap;
+    margin-top: 15px;
+}
